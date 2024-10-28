@@ -8,9 +8,9 @@ Step To Flow For The View The Blog Project
 
 #### Step 1
 
-Use The Xampp Server  And insert Sql Database in the phpmyadmin  which is avaible in floder
+Use The Xampp Server  And insert Sql Database in the phpmyadmin  which is available in floder
 #### Step 2
-Extract The Floder and Name bloging As floder Name The copy This Folder And Paste it into The htdocs Folder and Open the Server and mysql Data from the Xampp Server
+Extract The Floder and Name bloging As floder Name The copy This Folder And Paste it into The htdocs Folder and Open the Server and mysql Data from the Xampp Server and import database
 
 ```http
   http://localhost/phpmyadmin/
